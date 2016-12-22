@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/drone/drone-node#readme",
   "dependencies": {
+    "eventsource": "^0.2.1",
     "joi": "^7.0.0",
     "wreck": "^7.0.0"
   },
